@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-i am 陈俊雁 chen JunYan
-
-
+i am 陈俊雁 chen JunYan🪸
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjunyan1&layout=compact"  />
 
